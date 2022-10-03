@@ -1,5 +1,8 @@
 What differs this repository from random App Store applications?
 
+* FOLLOWING AND FOLLOWERS ARE SAVED IN CHRONOLOGICAL ORDER
+(Unlike on Instagram - which shows the users in a scrambled order, this program shows all of them in a descending order from newest to oldest)
+(The last account the target user followed, will show first in the log file. Same applies for followers - latest followers are the first in the list)
 * You don't provide a stranger with your main Instagram account credentials
 * You can scan OTHER users' following and followers lists and see who doesn't follow THEM back
 * You don't risk your main account getting restricted because you can use a throwaway account for targetting public profiles 
